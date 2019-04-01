@@ -1,0 +1,14 @@
+{
+  "name": "ukaa-server",
+  "version": "1.0.0",
+  "description": "Backend for Ukaa application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Akhil & Aravind",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
